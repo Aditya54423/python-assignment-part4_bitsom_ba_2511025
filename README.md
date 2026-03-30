@@ -1,5 +1,5 @@
 # python-assignment-part4
-# Student Performance Analysis - Assignment Part 4
+# Student Performance Analysis & Prediction - Assignment Part 4
 
 This is my project for predicting whether students will pass or fail based on their grades and habits. I used a small dataset of 15 students to walk through the entire data science process, from exploration to machine learning.
 
